@@ -20,5 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=natangrygiel&bg_color=35,b0b000,005a5a,5d008c&title_color=fff&text_color=fff&theme=radical)" alt="natangrygiel" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natangrygiel&bg_color=35,b0b000,005a5a,5d008c&title_color=fff&text_color=fff&theme=radical)" alt="natangrygiel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natangrygiel&bg_color=35,b0b000,005a5a,5d008c&title_color=fff&text_color=fff&theme=radical&langs_count=8)" alt="natangrygiel" /></p>
 
