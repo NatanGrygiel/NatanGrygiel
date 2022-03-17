@@ -1,7 +1,7 @@
 <h1 align="center">Cześć 👋🏻! Jestem Natan Grygiel</h1>
 <h3 align="center">Uwielbiam wszystko związane z informatyką</h3>
 
-- 👨🏻‍💻 Pracuję Nad [kron0s(em)](kr0nos)
+- 👨🏻‍💻 Pracuję Nad [kron0s(em)](https://www.github.com/NatanGrygiel/kr0nos)
 
 - 🌱 Uczę Się **JavaScript, Kotlin**
 
