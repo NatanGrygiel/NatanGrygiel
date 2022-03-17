@@ -1,11 +1,11 @@
 <h1 align="center">Cześć 👋🏻! Jestem Natan Grygiel</h1>
 <h3 align="center">Uwielbiam wszystko związane z informatyką</h3>
 
-- 👨🏻‍💻 Pracuję Nad [kron0s(em)](natangrygiel.pl)
+- 👨🏻‍💻 Pracuję Nad [kron0s(em)](kr0nos)
 
 - 🌱 Uczę Się **JavaScript, Kotlin**
 
-- 🌐 Strona [natangrygiel.pl](natangrygiel.pl)
+- 🌐 Strona [natangrygiel.pl](https://www.natangrygiel.pl)
 
 - 📫 Kontakt **natan@natangrygiel.pl**
 
