@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natangrygiel&label=Profile%20views&color=0e75b6&style=flat" alt="natangrygiel" /> </p>
 <h1 align="center">Cześć 👋🏻! Jestem Natan Grygiel</h1>
-<h3 align="center">Uwielbiam wszystko związane z informatyką</h3>
+<h3 align="center">Uwielbiam wszystko związane z informatyką :P</h3>
 
-- 👨🏻‍💻 Pracuję Nad [kron0s(em)](https://www.github.com/NatanGrygiel/kron0s) Oraz [SynergiąRedux](https://www.github.com/NatanGrygiel/SynergiaRedux)
+- 👨🏻‍💻 Pracuję Nad [kron0s(em)](https://www.github.com/NatanGrygiel/kron0s) oraz [SynergiąRedux](https://www.github.com/NatanGrygiel/SynergiaRedux)
 
 - 🌱 Uczę Się **JavaScript, Kotlin**
 
