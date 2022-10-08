@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natangrygiel&label=Profile%20views&color=0e75b6&style=flat" alt="natangrygiel" /> </p>
 <h1 align="center">Cześć 👋🏻! Jestem Natan Grygiel</h1>
-<h3 align="center">Uwielbiam wszystko związane z informatyką :P</h3>
+<h3 align="center">Programuję i takie tam</h3>
 
-- 👨🏻‍💻 Pracuję Nad [Vulcan.js](https://www.github.com/NatanGrygiel/vulcan.js)
+- 👨🏻‍💻 Pracuję Nad [GrygielOS](https://www.github.com/NatanGrygiel/grygiel-os)
 
-- 🌱 Uczę Się **JavaScript, Kotlin**
+- 🌱 Uczę Się **Assembly, C**
 
 - 🌐 Strona [natangrygiel.pl](https://www.natangrygiel.pl)
 
