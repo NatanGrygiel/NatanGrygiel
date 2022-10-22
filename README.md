@@ -2,7 +2,7 @@
 <h1 align="center">Cześć 👋🏻! Jestem Natan Grygiel</h1>
 <h3 align="center">Programuję i takie tam</h3>
 
-- 👨🏻‍💻 Pracuję Nad [GrygielOS](https://www.github.com/NatanGrygiel/grygiel-os)
+- 👨🏻‍💻 Pracuję Nad [GrygielOS](https://www.github.com/NatanGrygiel/grygielos)
 
 - 🌱 Uczę Się **Assembly, C**
 
